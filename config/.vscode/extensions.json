@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "antfu.iconify",
+    "shd101wyy.markdown-preview-enhanced",
+    "ms-vscode.vscode-typescript-next",
+    "rvest.vs-code-prettier-eslint",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree",
+    "wayou.vscode-todo-highlight"
+  ]
+}

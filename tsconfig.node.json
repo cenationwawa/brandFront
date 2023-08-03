@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "vite.config.ts",
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "types/**/*.d.ts",
+    "types/*.d.ts",
+    "vite.config.ts",
+    "types/app.ts",
+    "types/store/permission.ts",
+    "config/*",
+    "config/*.ts",
+    "config/**/*.ts"
+  ]
+}
